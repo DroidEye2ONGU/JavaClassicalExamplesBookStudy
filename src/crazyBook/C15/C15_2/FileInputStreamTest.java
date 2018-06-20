@@ -4,6 +4,7 @@ package crazyBook.C15.C15_2;
 
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.util.function.Consumer;
 
 public class FileInputStreamTest {
     public static void main(String[] args) throws IOException {
@@ -20,6 +21,7 @@ public class FileInputStreamTest {
                     bbff,0,hasRead
             ));
         }
+
         fileInputStream.close();
     }
 }
