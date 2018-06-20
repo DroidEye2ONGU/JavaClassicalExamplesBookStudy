@@ -30,7 +30,7 @@ public class Student2Test {
 
             int total = chinese + math + eng;
 
-            stuSet.add(new Student2("" + i, chinese, math, eng, total));
+            stuSet.add(new Student2("00" + i, chinese, math, eng, total));
         }
 
         sc.close();
