@@ -1,0 +1,68 @@
+﻿
+day_12 作业题
+
+一、选择题
+1、要ArrayList 的一个实例，请问以下哪种写法是正确的（ b）
+	A. ArrayList myList = new Arraylist();
+	B. List myList = new ArrayList();
+	C. ArraylList myList = new List();
+	D. List myList = new List();
+
+2、使用TreeSet的无参构造创建集合对象存储元素时，该元素必须（A ）
+	A. 实现Comparable接口
+	B. 有main方法
+	C. 有get和set方法
+	D. 实现Serializable接口
+
+3、对于增强for循环说法错误的是（A ）
+	A. 增强for循环可以直接遍历 Map集合
+	B. 增强for循环可以操作数组
+	C. 增强for循环可以操作 Collection集合
+	D. 增强for循环是JDK1.5版本后出现的
+	
+4、下列说法正确的是（C ）
+	A. LinkedList继承自List  AbstractSequentialList
+	B. AbstractSet继承自Set AbstractCollection
+	C. HashSet继承自AbstractSet
+	D. WeakMap继承自HashMap
+
+5、将集合转成数组的方法是（ C）
+	A. asList()
+	B. toCharArray()
+	C. toArray()
+	D. copy()
+
+
+二、简单题
+1、Iterator和ListIterator之间有什么区别？
+	Iterator是一个接口 定义了hasNext() next() remove(）方法
+	ListIterator是一个继承自Iterator的接口,增加了对List集合的特定迭代方法
+
+
+2、Set里的元素能重复吗？那么用什么方法区分是否重复?
+	不能重复， 当HashSet调用add()方法存储对象的时候, 先调用对象的hashCode()方法得到一个哈希值, 然后在集合中查找是否有哈希值相同的对象
+         		* 如果没有哈希值相同的对象就直接存入集合
+         		* 如果有哈希值相同的对象, 就和哈希值相同的对象逐个进行equals()比较,比较结果为false就存入, true则不存
+
+         	.将自定义类的对象存入HashSet去重复
+            	* 类中必须重写hashCode()和equals()方法
+            	* hashCode(): 属性相同的对象返回值必须相同, 属性不同的返回值尽量不同(提高效率)
+            	* equals(): 属性相同返回true, 属性不同返回false,返回false的时候存储
+
+
+	TreeSet通过实现Comporator接口中的方法或者元素中实现的Comporable接口中的方法来判断元素是否相等
+
+
+三、编程题
+1、某班20个学生的学号为20070301-20070320,全部选修了Java程序设计课程，给出所有同学的成绩（可用随机数产生，范围60-100），请编写程序将本班各位同学的成绩按照从低到高排序打印输出
+
+2、继续完成day_12课堂作业
+	
+	
+	
+	
+	
+	
+	
+	
+
