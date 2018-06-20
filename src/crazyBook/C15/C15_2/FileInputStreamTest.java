@@ -9,7 +9,9 @@ public class FileInputStreamTest {
     public static void main(String[] args) throws IOException {
         FileInputStream fileInputStream =
                 new FileInputStream(
-                        "C:\\Users\\droid\\Desktop\\Programme\\IdeaProjects\\JavaClassicalExamplesBookStudy\\src\\JavaInstance.Capter10\\C15_2\\FileInputStreamTest.java");
+                        "C:\\Users\\droid\\Desktop\\Programme\\IdeaProjects\\" +
+                                "JavaClassicalExamplesBookStudy\\src\\JavaInstance." +
+                                "Capter10\\C15_2\\FileInputStreamTest.java");
         byte[] bbff = new byte[1024];
         int hasRead = 0;
 
