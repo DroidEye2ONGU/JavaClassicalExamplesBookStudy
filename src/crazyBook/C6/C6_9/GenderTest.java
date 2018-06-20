@@ -9,5 +9,6 @@ public class GenderTest {
         //直接访问枚举值的name实例变量
         System.out.println(g + "代表" + g.getName());
         g.info();
+        Gender.MALE.info();
     }
 }
