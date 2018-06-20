@@ -20,6 +20,9 @@ public class ListComparatorTest{
         //
         //System.out.println(list);
 
+        /*使用treeSet排序 当treeSet排序中，匿名内部类对相同的元素不返回0，则
+        * TreeSet可以添加重复元素（即不认为这两个元素是重复的）
+        * */
         TreeSet<String> treeSet = new TreeSet<>(
                 (s1,s2) -> {
                     if (s1.equals(s2)) return -1;
