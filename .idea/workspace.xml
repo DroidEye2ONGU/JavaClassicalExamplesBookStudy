@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71cd7e51-514d-4d72-abad-927000f8b21a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ELSE/GitHubTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ELSE/GitTest2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,15 +32,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GitHubTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GitHubTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ELSE/GitHubTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
                 <element signature="e#84#85#0" expanded="true" />
                 <element signature="e#120#121#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GitTest2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ELSE/GitTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -115,6 +124,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -183,9 +193,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1063" />
+    <option name="y" value="92" />
     <option name="width" value="980" />
     <option name="height" value="990" />
   </component>
@@ -239,13 +249,13 @@
     <property name="SearchEverywhereHistoryKey" value="Person&#9;FILE&#9;file://C:/Users/droid/Desktop/Programme/IdeaProjects/JavaClassicalExamplesBookStudy/src/Capter10/PersonWithExternalizable.java&#10;Orien&#9;FILE&#9;file://C:/Users/droid/Desktop/Programme/IdeaProjects/JavaClassicalExamplesBookStudy/src/Capter10/Orientation.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Toy4" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -401,15 +411,15 @@
       <workItem from="1529342307761" duration="5000" />
       <workItem from="1529386463098" duration="717000" />
       <workItem from="1529452590297" duration="2935000" />
-      <workItem from="1529457789538" duration="301000" />
+      <workItem from="1529457789538" duration="1020000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70388000" />
+    <option name="totallyTimeSpent" value="71107000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1063" y="92" width="980" height="990" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
@@ -425,7 +435,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49921754" visible="true" weight="0.3664163" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49921754" visible="true" weight="0.75220263" />
       <window_info anchor="bottom" id="Statistic" order="1" weight="0.32407406" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
@@ -486,13 +496,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/crazyBook/C15/C15_8/Orientation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/crazyBook/C15/C15_8/SerizlizeMutable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-140">
@@ -855,12 +858,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ELSE/GitHubTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
             <element signature="e#84#85#0" expanded="true" />
             <element signature="e#120#121#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ELSE/GitTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
