@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71cd7e51-514d-4d72-abad-927000f8b21a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ELSE/Day12/ListComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ELSE/Day12/ListComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ELSE/Day12/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Util/GbkToUTF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crazyBook/C8/C8_2/ForeachTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crazyBook/C8/C8_2/IteratorEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crazyBook/C8/C8_2/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crazyBook/C8/C8_2/PredicateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crazyBook/C8/C8_2/PredicateTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaClassicalExamplesBookStudy/crazyBook/C15/C15_2/FileInputStreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaClassicalExamplesBookStudy/crazyBook/C15/C15_2/FileInputStreamTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crazyBook/C15/C15_2/FileInputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crazyBook/C15/C15_2/FileInputStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ELSE/Day12/ListComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ELSE/Day12/ListComparatorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,8 +56,8 @@
       <file leaf-file-name="ListComparatorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ELSE/Day12/ListComparatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+            <state relative-caret-position="308">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="20" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -464,7 +453,7 @@
       <workItem from="1529386463098" duration="717000" />
       <workItem from="1529452590297" duration="2935000" />
       <workItem from="1529457789538" duration="1020000" />
-      <workItem from="1529461346416" duration="13934000" />
+      <workItem from="1529461346416" duration="14594000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1529461403181</created>
@@ -498,7 +487,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85041000" />
+    <option name="totallyTimeSpent" value="85701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -518,8 +507,8 @@
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49921754" weight="0.6430155" />
-      <window_info anchor="bottom" id="Statistic" order="1" weight="0.32407406" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49921754" weight="0.44124168" />
+      <window_info anchor="bottom" id="Statistic" order="1" weight="0.29473683" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -542,14 +531,14 @@
       <window_info anchor="bottom" id="Run" order="8" weight="0.29473683" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49921754" visible="true" weight="0.6430155" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49921754" visible="true" weight="0.44124168" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Designer" order="0" />
-      <window_info anchor="bottom" id="Statistic" order="1" weight="0.32407406" />
+      <window_info anchor="bottom" id="Statistic" order="1" weight="0.29473683" />
       <window_info id="UI Designer" order="1" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.3859649" />
       <window_info anchor="right" id="Database" order="3" />
@@ -1036,8 +1025,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ELSE/Day12/ListComparatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        <state relative-caret-position="308">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="20" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

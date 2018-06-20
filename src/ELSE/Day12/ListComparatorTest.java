@@ -16,17 +16,21 @@ public class ListComparatorTest{
         list.add("ddd");
         list.add("ddd");
 
-        Collections.sort(list, new ListComparator());
+        //Collections.sort(list, new ListComparator());
+        //
+        //System.out.println(list);
 
-        System.out.println(list);
-
-       /* TreeSet<String> treeSet = new TreeSet<>(
+        TreeSet<String> treeSet = new TreeSet<>(
                 (s1,s2) -> {
                     if (s1.equals(s2)) return -1;
                     return s1.compareTo(s2);
                 }
-        );*/
+        );
 
+        treeSet.addAll(list);
+        list.clear();
+        list.addAll(treeSet);
+        System.out.println(list);
     }
 
 
