@@ -46,7 +46,7 @@ public class Grade {
 
 
         System.out.println("按照成绩从高到低排序后");
-        list.forEach(s -> System.out.println(s));
+        list.forEach(System.out::println);
         System.out.println("共" + list.size() + "人 ");
     }
 }

@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71cd7e51-514d-4d72-abad-927000f8b21a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/crazyBook/C8/C8_2/CollectionStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crazyBook/C8/C8_2/IntStreamTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaClassicalExamplesBookStudy/ELSE/Day12/HomeWork/Grade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaClassicalExamplesBookStudy/ELSE/Day12/HomeWork/Grade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaClassicalExamplesBookStudy/crazyBook/C8/C8_2/PredicateTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaClassicalExamplesBookStudy/crazyBook/C8/C8_2/PredicateTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ELSE/Day12/HomeWork/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ELSE/Day12/HomeWork/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crazyBook/C6/C6_8/MethodRefer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crazyBook/C6/C6_8/MethodRefer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +26,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="PredicateTest2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IntStreamTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/crazyBook/C8/C8_2/IntStreamTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CollectionStream.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/crazyBook/C8/C8_2/CollectionStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PredicateTest2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/crazyBook/C8/C8_2/PredicateTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            <state relative-caret-position="350">
+              <caret line="24" column="33" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="24" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -52,9 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/crazyBook/C6/C6_7/CreateStaticInnerInstance.java" />
-        <option value="$PROJECT_DIR$/src/crazyBook/C6/C6_7/LocalInnerClass.java" />
-        <option value="$PROJECT_DIR$/src/crazyBook/C6/C6_7/ListTest.java" />
         <option value="$PROJECT_DIR$/src/crazyBook/C6/C6_7/AnonymousTest.java" />
         <option value="$PROJECT_DIR$/src/crazyBook/C6/C6_7/AnonymousInner.java" />
         <option value="$PROJECT_DIR$/src/crazyBook/C6/C6_7/ATest.java" />
@@ -66,7 +90,6 @@
         <option value="$PROJECT_DIR$/src/crazyBook/C6/C6_7/Test.java" />
         <option value="$PROJECT_DIR$/src/crazyBook/C6/C6_7/LambdaTest.java" />
         <option value="$PROJECT_DIR$/src/crazyBook/C6/C6_8/LambdaTest.java" />
-        <option value="$PROJECT_DIR$/src/crazyBook/C6/C6_8/MethodRefer.java" />
         <option value="$PROJECT_DIR$/src/crazyBook/C6/C6_8/LambdaAndInner.java" />
         <option value="$PROJECT_DIR$/src/crazyBook/C6/C6_8/LambdaArrays.java" />
         <option value="$PROJECT_DIR$/src/ELSE/PersonTest.java" />
@@ -92,17 +115,21 @@
         <option value="$PROJECT_DIR$/src/ELSE/Day12/Person.java" />
         <option value="$PROJECT_DIR$/src/crazyBook/C8/C8_2/PredicateTest.java" />
         <option value="$PROJECT_DIR$/src/Util/GbkToUTF.java" />
-        <option value="$PROJECT_DIR$/src/crazyBook/C8/C8_2/PredicateTest2.java" />
         <option value="$PROJECT_DIR$/src/ELSE/Day12/ListComparator.java" />
         <option value="$PROJECT_DIR$/src/ELSE/Day12/ListComparatorTest.java" />
         <option value="$PROJECT_DIR$/src/ELSE/Day12/HomeWork/Student.java" />
-        <option value="$PROJECT_DIR$/src/ELSE/Day12/HomeWork/Grade.java" />
         <option value="$PROJECT_DIR$/src/ELSE/Day12/HomeWork/作业题.txt" />
         <option value="$PROJECT_DIR$/src/ELSE/Day12/HomeWork/ListComparator.java" />
         <option value="$PROJECT_DIR$/src/ELSE/Day12/HomeWork/StringComapre.java" />
         <option value="$PROJECT_DIR$/src/ELSE/Day12/HomeWork/IntegerTest.java" />
         <option value="$PROJECT_DIR$/src/ELSE/Day12/HomeWork/Student2.java" />
         <option value="$PROJECT_DIR$/src/ELSE/Day12/HomeWork/Student2Test.java" />
+        <option value="$PROJECT_DIR$/src/crazyBook/C8/C8_2/PredicateTest2.java" />
+        <option value="$PROJECT_DIR$/src/ELSE/Day12/HomeWork/Grade.java" />
+        <option value="$PROJECT_DIR$/src/crazyBook/C6/C6_8/MethodRefer.java" />
+        <option value="$PROJECT_DIR$/src/crazyBook/C8/C8_2/IntStream.java" />
+        <option value="$PROJECT_DIR$/src/crazyBook/C8/C8_2/IntStreamTest.java" />
+        <option value="$PROJECT_DIR$/src/crazyBook/C8/C8_2/CollectionStream.java" />
       </list>
     </option>
   </component>
@@ -115,7 +142,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -180,41 +207,7 @@
               <item name="JavaClassicalExamplesBookStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaClassicalExamplesBookStudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ELSE" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaClassicalExamplesBookStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaClassicalExamplesBookStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ELSE" type="462c0819:PsiDirectoryNode" />
-              <item name="Day12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaClassicalExamplesBookStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaClassicalExamplesBookStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ELSE" type="462c0819:PsiDirectoryNode" />
-              <item name="Day12" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaClassicalExamplesBookStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaClassicalExamplesBookStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaInstance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaClassicalExamplesBookStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaClassicalExamplesBookStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaInstance" type="462c0819:PsiDirectoryNode" />
-              <item name="Capter7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaClassicalExamplesBookStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaClassicalExamplesBookStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -252,7 +245,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PredicateTest2">
+  <component name="RunManager" selected="Application.CollectionStream">
+    <configuration name="CollectionStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crazyBook.C8.C8_2.CollectionStream" />
+      <module name="JavaClassicalExamplesBookStudy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crazyBook.C8.C8_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ELSE.Day12.HomeWork.Grade" />
       <module name="JavaClassicalExamplesBookStudy" />
@@ -264,19 +268,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="IntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ELSE.Day12.HomeWork.IntegerTest" />
+    <configuration name="IntStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crazyBook.C8.C8_2.IntStreamTest" />
       <module name="JavaClassicalExamplesBookStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ELSE.Day12.HomeWork.*" />
+          <option name="PATTERN" value="crazyBook.C8.C8_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ListComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ELSE.Day12.HomeWork.ListComparatorTest" />
+    <configuration name="IntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ELSE.Day12.HomeWork.IntegerTest" />
       <module name="JavaClassicalExamplesBookStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -293,17 +297,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="crazyBook.C8.C8_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StringComapre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ELSE.Day12.HomeWork.StringComapre" />
-      <module name="JavaClassicalExamplesBookStudy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ELSE.Day12.HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,18 +344,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.PredicateTest2" />
-      <item itemvalue="Application.ListComparatorTest" />
       <item itemvalue="Application.Grade" />
-      <item itemvalue="Application.StringComapre" />
       <item itemvalue="Application.IntegerTest" />
+      <item itemvalue="Application.IntStreamTest" />
+      <item itemvalue="Application.CollectionStream" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionStream" />
+        <item itemvalue="Application.IntStreamTest" />
+        <item itemvalue="Application.Grade" />
         <item itemvalue="Application.PredicateTest2" />
         <item itemvalue="Application.IntegerTest" />
-        <item itemvalue="Application.StringComapre" />
-        <item itemvalue="Application.Grade" />
-        <item itemvalue="Application.ListComparatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -397,7 +390,7 @@
       <workItem from="1529457789538" duration="1020000" />
       <workItem from="1529461346416" duration="15543000" />
       <workItem from="1529491218653" duration="2971000" />
-      <workItem from="1529538964681" duration="382000" />
+      <workItem from="1529538964681" duration="3470000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1529461403181</created>
@@ -441,18 +434,26 @@
       <option name="project" value="LOCAL" />
       <updated>1529539165448</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1">
+      <created>1529539472776</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1529539472776</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90003000" />
+    <option name="totallyTimeSpent" value="93091000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.3252315" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -460,11 +461,11 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.32982457" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.2900585" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.2888889" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49921754" visible="true" weight="0.21995708" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49921754" weight="0.35476717" />
       <window_info anchor="bottom" id="Statistic" order="1" weight="0.29473683" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
@@ -479,8 +480,38 @@
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.3291536" />
-      <window_info anchor="bottom" id="Messages" order="5" weight="0.3252315" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3291536" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.2888889" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49921754" visible="true" weight="0.35476717" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="0" />
+      <window_info anchor="bottom" id="Statistic" order="1" weight="0.29473683" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.3859649" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32982457" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.3252315" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info id="Favorites" order="3" sideWeight="0.5007825" side_tool="true" weight="0.625" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -524,52 +555,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="4146" lean-forward="true" selection-start-line="4146" selection-end-line="4146" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ELSE/ListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ELSE/NDG.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ELSE/IterateList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ELSE/DeleteSameElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Iterable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crazyBook/C6/C6_8/LambdaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -587,13 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crazyBook/C6/C6_8/MethodRefer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaInstance/Capter7/PersonCompare.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -605,13 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="46" column="40" lean-forward="true" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crazyBook/C6/C6_8/LambdaTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -696,20 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="583">
           <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crazyBook/C8/C8_2/ForeachTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crazyBook/C8/C8_2/PredicateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
@@ -807,20 +768,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ELSE/Day12/HomeWork/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ELSE/Day12/HomeWork/Grade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Character.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -863,16 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ELSE/Day12/HomeWork/StringComapre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ELSE/Day12/HomeWork/Student2Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
@@ -897,10 +834,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crazyBook/C8/C8_2/PredicateTest2.java">
+    <entry file="file://$PROJECT_DIR$/src/ELSE/Day12/HomeWork/StringComapre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ELSE/Day12/HomeWork/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+          <folding>
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ELSE/Day12/HomeWork/Grade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crazyBook/C6/C6_8/CommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crazyBook/C6/C6_8/LambdaAndInner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crazyBook/C6/C6_8/LambdaQs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crazyBook/C6/C6_8/LambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crazyBook/C6/C6_8/LambdaTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crazyBook/C6/C6_8/MethodRefer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crazyBook/C8/C8_2/ForeachTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crazyBook/C8/C8_2/PredicateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crazyBook/C8/C8_2/PredicateTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crazyBook/C8/C8_2/IntStreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crazyBook/C8/C8_2/CollectionStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

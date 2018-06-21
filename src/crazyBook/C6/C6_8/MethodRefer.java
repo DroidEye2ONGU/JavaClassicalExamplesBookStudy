@@ -68,7 +68,7 @@ public class MethodRefer {
         //后面的参数全部传给方法作为参数
         MyTest mt = String::substring;
         /*↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
-        * 对于上面的实例方法引用,也就是调用某个String对象的substring()实例方法
+        * 对于上面的实例方法引用,也就是调用某个String的实例对象的substring()实例方法
         * 来实现MyTest函数式借口中唯一的抽象方法,当调用MyTest接口中唯一的抽象方
         * 法时,第一个调用的参数将作为substring方法的调用者,剩下的调用参数会作为
         * substring()实例方法的调用参数
