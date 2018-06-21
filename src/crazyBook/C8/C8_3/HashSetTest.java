@@ -4,6 +4,10 @@ import java.util.*;
 
 // 类A的equals方法总是返回true，但没有重写其hashCode()方法
 class A {
+    @Override
+    public String toString() {
+        return "A";
+    }
     public boolean equals(Object obj) {
         return true;
     }
@@ -11,6 +15,10 @@ class A {
 
 // 类B的hashCode()方法总是返回1，但没有重写其equals()方法
 class B {
+    @Override
+    public String toString() {
+        return "B";
+    }
     public int hashCode() {
         return 1;
     }
@@ -18,6 +26,10 @@ class B {
 
 // 类C的hashCode()方法总是返回2，且重写其equals()方法总是返回true
 class C {
+    @Override
+    public String toString() {
+        return "C";
+    }
     public int hashCode() {
         return 2;
     }
