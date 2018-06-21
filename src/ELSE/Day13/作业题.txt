@@ -1,0 +1,77 @@
+﻿
+day_13 作业题
+
+一、选择题
+1、将Map集合中的键存储到Set集合的方法是（D ）
+	A. entrySet()
+	B. get()
+	C. keySet()
+	D. put()
+
+2、下面关于HashMap和Hashtable的区别，说法正确的是（ CD）
+	A. Hashtable线程不安全，效率高
+	B. HashMap线程安全，效率低
+	C. HashMap允许null键和值
+	D. Hashtable不允许null键和值
+
+3、对于HashMap集合说法正确的是（ C）
+	A. 底层是数组结构
+	B. 底层是链表结构
+	C. 可以存储null值和null键
+	D. 不可以存储null值和null键
+	
+4、关于Map.Entry接口说法错误的是（ C）
+	A. 具有getkey()方法
+	B. 具有getValue()方法
+	C. 具有keySet()方法
+	D. 具有setValue()方法
+
+5、所示代码的功能为：循环遍历输出Map当中的每一个元素（ B）
+	Map map = new HashMap();
+	map.put("jessica",100);
+	map.put("tom",200);
+	map.put("den",300);
+	Set 位置① set = 位置②;
+	for (位置③ per : set) {
+		System.out.println(per.getKey() + ":" + per.getValue());
+	}
+	下列每个选项中分别填入上面三个位置，正确的是：
+	A. <Entry>
+	   map.keySet()
+	   Entry
+	B. <Entry<Integer,String>>
+	   map.entrySet()
+	   Entry
+	C. <Map.Entry<String,Integer>>
+	   map.keySet()
+	   Map.Entry
+	D. <Map.Entry<String,Integer>>
+	   map.entrySet()
+	   Map.Entry
+
+
+二、简单题
+1、HashMap和HashTable的区别？
+	
+	Hashtable是JDK1.0时代的古老集合,线程安全,性能较低,键值对不允许null值
+	HashMap线程不安全,性能较高,键值对允许null值
+2、数组和集合的区别
+	数组是线性结构,而集合不一定都是线性数据结构
+	数组的大小固定,集合的大小不固定
+	数组只能存储一类元素,而集合在没有指定泛型的情况下可以存储任意的元素类型 
+
+
+三、编程题
+1、在控制台输入一句英文：The hard part is not making the decision but it is living with it
+   每个单词之间用空白隔开。
+   使用HashMap统计该句英文中每个单词出现的次数
+
+	
+	
+	
+	
+	
+	
+	
+	
+
