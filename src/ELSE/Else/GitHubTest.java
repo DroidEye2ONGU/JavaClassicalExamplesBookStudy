@@ -1,4 +1,4 @@
-package ELSE;
+package ELSE.Else;
 
 public class GitHubTest {
     public static void main(String[] args) {

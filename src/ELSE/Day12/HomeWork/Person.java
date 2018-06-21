@@ -1,4 +1,4 @@
-package ELSE.Day12;
+package ELSE.Day12.HomeWork;
 
 public class Person implements Comparable<Person> {
     private String name;
