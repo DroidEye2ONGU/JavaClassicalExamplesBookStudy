@@ -27,6 +27,7 @@ public class ListIteratorTest {
         };
         List<String> bookList = new ArrayList<>();
 
+
         for (int i = 0; i < books.length; i++) {
             bookList.add(books[i]);
         }
