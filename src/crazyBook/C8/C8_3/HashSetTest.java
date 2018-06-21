@@ -49,6 +49,7 @@ public class HashSetTest {
         books.add(new B());
         books.add(new C());
         books.add(new C());
+
         System.out.println(books);
     }
 }
