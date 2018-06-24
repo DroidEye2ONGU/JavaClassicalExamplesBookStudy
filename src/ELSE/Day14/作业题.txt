@@ -1,0 +1,65 @@
+﻿
+day_14 作业题
+
+一、选择题
+1、java中用来抛出异常的关键字是（ C） 
+	A、try   B、catch   C、throw  D、finally   
+
+2、（ C）类是所有异常类的父类。
+	A、Throwable     B、Error   C、Exception   D、AWTError   
+
+3、java语言中，下列哪一子句是异常处理的出口（ ）
+	A、try{„}子句     
+	B、catch{„}子句  
+	C、finally{„}子句  
+	D、以上说法都丌对   
+	
+4、下列程序的执行，说法正确的是（ ）
+(1)	public class MultiCatch {
+(2)	 	public static void main(String args[]) {
+(3)	 		try {
+(4)				int a = args.length;
+(5)				int b = 42 / a;
+(6)				int c[] = {1};
+(7)				c[42] = 99;
+(8)				System.out.println(“b=” + b);
+(9)			} catch(ArithmeticException e) {
+(10)			System.out.println(“除0异常：” + e);
+(11)		} catch(ArrayIndexOutOfBoundsException e) {
+(12)			System.out.println(“数组超越边界异常：” + e);
+(13)		}
+(14)	}
+(15)}
+	A、程序将输出第10行的异常信息  
+	B、程序第7行出错  
+	C、程序将输出“b=42”  
+	D、程序将输出第10行和第12行的异常信息
+
+5、当方法可能遇到异常又不知如何处理时，下列哪种说法是正确的（ ） 
+	A、捕获异常           B、抛出异常对象   
+	C、抛出声明异常       D、嵌套异常
+
+
+二、简单题
+1、throw 和throws关键字的区别?
+
+2、编译时被检查的异常和运行时异常的区别?
+
+3、定义异常处理时，什么时候定义try，什么时候定义throws呢？
+
+
+三、编程题
+1、根据以下要求完成
+	写OwnException类，要求继承Exception类
+	写OwnExceptionSource类，要求包含方法a()，a()抛出OwnException
+	写OwnExceptionHandler类，要求包含main()，在main()中调用OwnExceptionSource类的a()，并处理相关异常
+
+	
+	
+	
+	
+	
+	
+	
+	
+
