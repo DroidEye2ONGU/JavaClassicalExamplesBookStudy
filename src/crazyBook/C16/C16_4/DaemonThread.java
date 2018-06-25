@@ -1,7 +1,5 @@
 package crazyBook.C16.C16_4;
 
-import java.io.FileOutputStream;
-import java.io.FileWriter;
 import java.util.Scanner;
 
 public class DaemonThread extends Thread{

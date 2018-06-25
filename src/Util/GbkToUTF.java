@@ -37,18 +37,18 @@ public class GbkToUTF {
                 FileChannel outChannel = new FileOutputStream(outF).getChannel()
         ) {
 
-
+            //读取二进制流
             MappedByteBuffer gbkByteBuffer = inChannel.map(FileChannel.MapMode.READ_ONLY, 0, inF.length());
-
+            //构造gbk解码器
             CharsetDecoder charsetDecoder = Charset.forName("gbk").newDecoder();
-
+            //通过gbk编码解码成字符
             CharBuffer gbkCharBuffer = charsetDecoder.decode(gbkByteBuffer);
-
+            //构造UTF-8编码器
             CharsetEncoder utfEncoder = StandardCharsets.UTF_8.newEncoder();
-
+            //通过UTF-8编码将字符转成字节
             ByteBuffer utfByteBuffer = utfEncoder.encode(gbkCharBuffer);
 
-
+            //将字节流
             outChannel.write(utfByteBuffer);
 
         } catch (Exception e) {
