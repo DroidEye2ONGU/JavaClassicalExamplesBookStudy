@@ -1,0 +1,96 @@
+
+day_16 作业题
+
+一、选择题
+1、使用Java IO流实现对文本文件的读写过程中，需要处理下列（ ）异常。
+	A. ClassNotFoundException
+	B. IOException
+	C. SQLException
+	D. RemoteException
+
+2、在Java的IO操作中，（ ）方法可以用来刷新流的缓冲。
+	A. void release()
+	B. void close()
+	C. void remove()
+	D. void flush()
+
+3、在Java中，下列关于读写文件的描述错误的是（ ）。
+	A. Reader类的read()方法用来从源中读取一个字符的数据
+	B. Reader类的read(int n )方法用来从源中读取一个字符的数据
+	C. Writer类的write(int n)方法用来向输出流写入单个字符
+	D. Writer类的write(String str)方法用来向输出流写入一个字符串
+
+4、阅读下列文件定入的Java代码，共有（ ）处错误。
+	import java.io.*;
+	public class TestIO {
+		public static void main(String []args) {
+			String str ="文件写入练习";
+			FileWriter fw = null;        //1
+			try {
+				fw = new FileWriter("c:\mytext.txt");  //2
+				fw.writerToEnd(str);   //3
+			} catch(IOException e) {   //4
+				e.printStackTrace();
+			} finally {
+				//此处省略关闭流
+			}
+		}
+	}
+	A. 0
+	B. 1
+	C. 2
+	D. 3
+
+5、分析如下Java代码，有标注的四行代码中，有错误的是第（ ）处。
+	import java.io.FileWriter;
+	import java.io.IOException;
+	public class Test {
+		public static void main(String[ ] args) {
+			String str = "Hello World";
+			FileWriter fw = null;
+			try {
+				fw = new FileWriter("c:\\hello.txt"); // 1
+				fw.write(str);                     // 2
+			} catch (IOException e) {
+				e.printStackTrace();               // 3
+			} finally {
+				fw.close();                        // 4
+			}
+		}
+	}
+	A. 1
+	B. 2
+	C. 3
+	D. 4
+
+	
+二、简单题
+1、说明缓冲流的优点和原理
+
+2、列举常用的字节输入流和字节输出流并说明其特点，至少5对。
+
+
+三、编程题
+1、需求:
+	把ArrayList集合中的学生数据存储到文本文件
+    每一个学生数据作为文件中的一行数据
+
+	学号 	姓名 	年龄 	所在城市
+	it001 	张曼玉 	35 		北京
+	it002 	王祖贤 	33 		上海
+	it003 	林青霞 	30 		西安
+	
+写入文件a.txt后：
+	it001,张曼玉,35,北京
+	...
+	
+2、将上题a.txt文件中内容读取出来，每行解析成一个学生对象，最后放入到ArrayList里面。
+	
+3、复制任意文件夹下面所有文件和子文件夹内容到e:/demojava。
+提示：涉及单个文件复制、目录的创建、递归的使用
+	
+
+
+	
+	
+
