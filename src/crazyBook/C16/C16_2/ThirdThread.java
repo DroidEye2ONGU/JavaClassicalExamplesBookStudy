@@ -1,6 +1,5 @@
 package crazyBook.C16.C16_2;
 
-import java.util.concurrent.Callable;
 import java.util.concurrent.FutureTask;
 
 public class ThirdThread {
