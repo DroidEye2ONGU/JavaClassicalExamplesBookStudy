@@ -21,5 +21,6 @@ public class PropertiesTest
 		// 将a.ini文件中的key-value对追加到props2中
 		props2.load(new FileInputStream("a.ini") );   //②
 		System.out.println(props2);
+
 	}
 }
