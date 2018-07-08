@@ -1,0 +1,39 @@
+
+xml 作业题（答案）
+
+一、选择题
+1、属性（B）用来表示XML文档所使用的字符集。
+	A. version     B. encoding     C. standalone
+ 
+2、XML（A）提供了一种避免元素命名冲突的方法。
+	A. 命名空间      B. DTD       C.XSD       D.XSL
+	
+3. 含有中文字符的XML文档中，encoding属性值应设为（B/C）
+	A. BIG5     B. GB2312      C. UTF-8
+
+4. 实体引用是一种合法的XML名字，前面带有一个符号（A）
+	A. &     B. ;     C. +
+
+5、下列选项中，哪一个是预定义实体？（B）
+	A. &name;      B. &lt;      C. &copyright;
+
+	
+二、简答题
+1、什么是XML？XML的特点有哪些？
+
+2、XML元素命名规范是什么?
+
+3、书写XML文件的注意事项有哪些
+
+4、简述sax解析与dom解析的原理与区别
+	
+	
+三、编程题
+1、使用dom4j的解析方式解析student.xml文件，封装为student类型对象，最后放到list集合中并返回
+
+
+
+
+
+	
+

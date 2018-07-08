@@ -81,7 +81,7 @@ public class Dom4jTest {
 	
 	public static void main(String[] args) {
 		Dom4jTest t = new Dom4jTest();
-		String filePath = "src/com/briup/parsexml/dom4j/test3.xml";
+		String filePath = "src/ELSE/XML/Day02/parsexml/dom4j/test3.xml";
 		t.createDom(filePath);
 //		t.readXML(filePath);
 	}

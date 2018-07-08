@@ -51,16 +51,16 @@ public class DomXml {
 		NodeList rootChildNodes = root.getChildNodes();
 		System.out.println("lenght: "+rootChildNodes.getLength());
 		//注意，即使越界访问，也不会报错，输出null即可
-		System.out.println("0: " + rootChildNodes.item(0));
-		System.out.println("1: " + rootChildNodes.item(1));
-		System.out.println("2: " + rootChildNodes.item(2));
-		System.out.println("3: " + rootChildNodes.item(3));
-		System.out.println("4: " + rootChildNodes.item(4));
+		//System.out.println("0: " + rootChildNodes.item(0));
+		//System.out.println("1: " + rootChildNodes.item(1));
+		//System.out.println("2: " + rootChildNodes.item(2));
+		//System.out.println("3: " + rootChildNodes.item(3));
+		//System.out.println("4: " + rootChildNodes.item(4));
 	
 //		String sname = rootChildNodes.item(0).getAttributes().getNamedItem("sname").getNodeValue();
 //		System.out.println(sname);
 		
-		List<Student> list = new ArrayList<Student>();
+		List<Student> list = new ArrayList<>();
 		Student s = null;
 		for(int i = 0; i < rootChildNodes.getLength(); i++){
 			//item(i)获取第i个元素,从0开始
@@ -229,9 +229,9 @@ public class DomXml {
 			for(Student st:list){
 				System.out.println(st);
 			}
-//			dr.add("src/com/briup/parsexml/jaxpdom/class.xml",new Student(2016011,"张三",30));
-//			dr.update("src/com/briup/parsexml/jaxpdom/class.xml", new Student(2016002,"李四",23));
-//			dr.remove("src/com/briup/parsexml/jaxpdom/class.xml", "2016011");
+			dr.add("src/ELSE/XML/Day02/parsexml/jaxpdom/class.xml",new Student(2016011,"张三",30));
+//			dr.update("src/ELSE/XML/Day02/parsexml/jaxpdom/class.xml", new Student(2016002,"李四",23));
+//			dr.remove("src/ELSE/XML/Day02/parsexml/jaxpdom/class.xml"", "2016011");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
