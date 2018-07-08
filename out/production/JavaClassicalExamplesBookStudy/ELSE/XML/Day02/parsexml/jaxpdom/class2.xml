@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE students SYSTEM "class2.dtd">
+<students>
+    <stu id="2016001">
+        <name>王五</name>
+        <age>43</age>
+    </stu>
+    <stu id="2016002">
+        <name>李四</name>
+        <age>21</age>
+    </stu>
+</students>

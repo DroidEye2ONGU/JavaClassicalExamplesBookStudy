@@ -1,0 +1,6 @@
+<!ELEMENT students (stu*)>
+<!ELEMENT stu ANY>
+	<!ATTLIST stu 
+		id 		CDATA #REQUIRED
+		sname	CDATA "TOM"
+	>

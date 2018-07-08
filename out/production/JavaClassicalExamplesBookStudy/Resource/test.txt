@@ -1,0 +1,2 @@
+普通字符串
+crazyBook.C15.C15_4.PrintStreamTest@4554617c
