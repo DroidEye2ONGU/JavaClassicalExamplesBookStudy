@@ -1,0 +1,30 @@
+
+oracleday_1 作业题
+
+一、选择题
+1、下面哪个用户不是ORACLE缺省安装后就存在的用户（C）
+	A. SYSDBA　　　B. SYSTEM　　　C. SCOTT　　　D. SYS
+
+2、参数文件中，下列四个符号中哪个符号开头的行表示注释行（C）
+	A. $      B. @       C. #       D. !
+	
+3. 数据库管理系统的英文缩写是（C）
+	A. DBA       B. DBS        C. DBMS         D. DB
+
+4. 谁拥有数据字典（B）
+	A. SYS       B. SYSTEM       C. DBA        D. ORACLE
+
+	
+二、简答题
+1、什么是数据库？什么是关系型数据库？用自己的话作简要说明。
+    
+2、什么是DML？什么是DDL？
+
+3、delete，truncate区别：
+	
+4、8i,9i,10g,11g,12c中igc字母含义
+
+5、将课堂练习自己敲一遍。
+
+	
+
