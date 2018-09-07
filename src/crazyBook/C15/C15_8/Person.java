@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
+import java.util.HashMap;
 
 public class Person implements Serializable {
     private static final long serialVersionUID = -8406729319427226191L;
@@ -21,6 +22,7 @@ public class Person implements Serializable {
     public Person(String name, int age) {
         this.name = name;
         this.age = age;
+
     }
 
     public String getName() {
